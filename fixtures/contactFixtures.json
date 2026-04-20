@@ -1,0 +1,24 @@
+{
+  "contact1": {
+    "firstName": "Siya",
+    "lastName": "Maskey",
+    "birthdate": "1998-05-10",
+    "email": "siya.maskey@example.com",
+    "phone": "9800000001",
+    "street1": "Baneshwor",
+    "city": "Kathmandu"
+  },
+  "contact2": {
+    
+  "firstName": "Bhumika",
+  "lastName": "Neupane",
+  "birthdate": "2005-07-02",
+  "email": "bhumika1@gmail.com",
+  "phone": "9898989898",
+  "street1": "Add1",
+  "city": "City1",
+  "stateProvince": "State1",
+  "postalCode": "12345",
+  "country": "Nepal"
+}
+  }
